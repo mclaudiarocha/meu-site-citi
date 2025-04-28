@@ -1,6 +1,6 @@
 
 body {
-  background-image: url(foto-fundo.jpg);
+  background-image: url("foto-fundo.jpg");
 }
 
 h2 {
